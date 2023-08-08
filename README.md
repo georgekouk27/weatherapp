@@ -1,7 +1,7 @@
 # weatherapp
 A weather app for Android using kotlin
 
-Tech stuff
+# Tech stuff
 Kotlin
 Retrofit
 OpenWeatherMap
