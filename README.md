@@ -5,3 +5,8 @@ A weather app for Android using kotlin
 * Kotlin
 * Retrofit
 * OpenWeatherMap
+
+##ToDo
+* 7 day forecast
+* Search by city
+* Celcius/Fahrenait unit choice
